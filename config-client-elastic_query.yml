@@ -28,6 +28,3 @@ springdoc:
 
 security:
     paths-to-ignore: /api-docs
-
-encrypt:
-  key: 'Demo_Pwd!2020'
